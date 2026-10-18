@@ -1,0 +1,7 @@
+*.7z
+*.zip
+*.pst
+*.ost
+*.log
+*.tmp
+ProfileMigration_Staging_*/
